@@ -1,6 +1,5 @@
 export default function handler(req, res) {
   res.status(200).json({
-    message: "Hello from backend 🚀",
-    success: true
+    message: "Hello from backend 🚀"
   });
 }
